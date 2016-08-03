@@ -1,0 +1,33 @@
+.sale {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.price {
+  text-decoration: line-through;
+}
+
+.cupcake-pic {
+  width: 90%;
+  height: auto;
+}
+
+.col1 {
+  width: 30%;
+  float:left;
+}
+
+.col2 {
+  width: 30%;
+  display: inline-block;
+}
+
+.col3 {
+  width: 30%;
+  float:right;
+}
